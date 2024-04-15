@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="MATEMATİK" display-tooltip-when-elided="true" style="height: 35px; font-size: 30px; -unity-text-align: middle-center;" />
+    <ui:Button text="Oyuna Başla" display-tooltip-when-elided="true" style="height: 32px; width: 250px; justify-content: flex-start; font-size: 20px; transform-origin: center; translate: 0 0; white-space: nowrap; position: relative; left: 243px; top: 110px;" />
+    <ui:Button text="Oyundan Çık" display-tooltip-when-elided="true" style="height: 32px; width: 250px; left: 243px; top: 130px; font-size: 20px;" />
+</ui:UXML>
